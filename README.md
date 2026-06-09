@@ -1,4 +1,3 @@
-# My First Project
-
-Testing README.md that is on the master branch.
-
+Practice run github basics
+Testing.
+Testing merge conflicts.
